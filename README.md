@@ -1,2 +1,2 @@
 # public
-arquivo alterado DEVELOP
+Alterado "RELEASE"
